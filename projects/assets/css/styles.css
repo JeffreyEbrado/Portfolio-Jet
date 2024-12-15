@@ -97,10 +97,11 @@ main {
     padding: 50px 20px;
     text-align: center;
     min-height: 100vh;
+    
 }
 
 .panel.home {
-    background: #f4f4f4;
+    background: #f4f4f400;
 }
 
 .panel.about {
