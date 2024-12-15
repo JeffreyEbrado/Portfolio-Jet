@@ -7,7 +7,7 @@ burger.addEventListener('click', () => {
 });
 
 
-function downloadResume() {
+function dlResume() {
     // File path of the resume
     const filePath = 'projects/assets/images/portfolio-pic/resume-jet.jpg'; 
 
