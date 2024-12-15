@@ -9,11 +9,11 @@ burger.addEventListener('click', () => {
 
 function dlResume() {
     // File path of the resume
-    const filePath = 'projects/assets/images/portfolio-pic/resume-jet.jpg'; 
+    const filePath = 'projects/assets/images/portfolio-pic/my-resume.jpg'; 
 
     const link = document.createElement('a');
     link.href = filePath;
-    link.download = 'resume-jet.jpg';
+    link.download = 'my-resume.jpg';
 
     document.body.appendChild(link);
 
